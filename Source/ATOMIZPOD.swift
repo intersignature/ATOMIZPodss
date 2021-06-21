@@ -20,4 +20,9 @@ public class ATOMIZPoD {
 
         print("bb")
     }
+
+    open func print_C() {
+
+        print("cc")
+    }
 }
