@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ATOMIZPODS"
-  spec.version      = "0.2.0"
+  spec.version      = "0.1.0"
   spec.summary      = "A short description of ATOMIZPODS."
   spec.description  = "Desc"
 
