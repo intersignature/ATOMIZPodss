@@ -19,6 +19,6 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios
   spec.ios.deployment_target = "11.0"
   spec.source       = { :git => "https://github.com/intersignature/ATOMIZPodss.git", :tag => "#{spec.version}" }
-  spec.source_files  = "Source/*.swift"
+  spec.source_files  = "Source/**"
 
 end
