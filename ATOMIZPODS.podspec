@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ATOMIZPODS"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A short description of ATOMIZPODS."
   spec.description  = "Desc"
 
@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
   spec.license      = "MIT"
   spec.author       = { "Sirichai" => "intersignature@hotmail.com" }
   spec.platform     = :ios
-  spec.ios.deployment_target = "11.0"
+  spec.ios.deployment_target = "9.0"
   spec.source       = { :git => "https://github.com/intersignature/ATOMIZPodss.git", :tag => "v#{spec.version}" }
   spec.source_files  = "Source/**"
 
